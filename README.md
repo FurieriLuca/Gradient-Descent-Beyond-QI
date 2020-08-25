@@ -8,9 +8,11 @@ Proceedings of the 2020 American Control Conference (ACC), 2020, to appear, [Pre
 
 To be cited as:
 
-> @article{furieri2020first,
+> @inproceedings{furieri2020first,
 >  title={First order methods for globally optimal distributed controllers beyond quadratic invariance},
 >  author={Furieri, Luca and Kamgarpour, Maryam},
->  journal={Proceedings of the 2020 American Control Conference (ACC)},
->  year={2020}
+>  booktitle={2020 American Control Conference (ACC)},
+>  pages={4588--4593},
+>  year={2020},
+>  organization={IEEE}
 >}
