@@ -3,7 +3,7 @@ This code reproduces the numerical examples associated with the paper:
 
 *First Order Methods For Globally Optimal Distributed Controllers Beyond Quadratic Invariance*, by Luca Furieri and  Maryam Kamgarpour,
 
-Proceedings of the 2020 American Control Conference (ACC), 2020, to appear, [Preprint](https://arxiv.org/abs/1909.10999), [IEEEXplore](https://ieeexplore.ieee.org/abstract/document/9147358)
+Proceedings of the 2020 American Control Conference (ACC), 2020, [Preprint](https://arxiv.org/abs/1909.10999), [IEEEXplore](https://ieeexplore.ieee.org/abstract/document/9147358)
 
 
 To be cited as:
